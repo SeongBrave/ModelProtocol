@@ -1,0 +1,6 @@
+framework module ModelProtocol {
+  umbrella header "ModelProtocol-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ModelProtocol_Example' do
+  pod 'ModelProtocol', :path => '../'
+
+  target 'ModelProtocol_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,19 @@
+PODS:
+  - ModelProtocol (0.0.1):
+    - SwiftyJSON (~> 4.0.0)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - ModelProtocol (from `../`)
+
+EXTERNAL SOURCES:
+  ModelProtocol:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ModelProtocol: 22d2e7544eb4823d74ca7a599935b6e53f7663ba
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 76b3bcec552d8873e1bd875cdb195b2690278b97
+
+COCOAPODS: 1.4.0
