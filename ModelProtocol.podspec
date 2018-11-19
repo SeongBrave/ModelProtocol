@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ModelProtocol'
-  s.version          = '0.0.1'
+  s.version          = '0.1.0'
   s.summary          = 'model协议基础库'
 
 
@@ -27,5 +27,5 @@ TODO:model模块，模块化编程
   s.source_files = 'ModelProtocol/Classes/**/*.{swift}'
 
   s.frameworks = 'Foundation'
-  s.dependency 'SwiftyJSON', '~> 4.0.0'
+  s.dependency 'SwiftyJSON', '~> 4.2.0'
 end

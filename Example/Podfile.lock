@@ -1,19 +1,23 @@
 PODS:
   - ModelProtocol (0.0.1):
-    - SwiftyJSON (~> 4.0.0)
-  - SwiftyJSON (4.0.0)
+    - SwiftyJSON (~> 4.2.0)
+  - SwiftyJSON (4.2.0)
 
 DEPENDENCIES:
   - ModelProtocol (from `../`)
 
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwiftyJSON
+
 EXTERNAL SOURCES:
   ModelProtocol:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
-  ModelProtocol: 22d2e7544eb4823d74ca7a599935b6e53f7663ba
-  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  ModelProtocol: 0e0d998fb0fefb935453d3026e3ee58e28046514
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
 
 PODFILE CHECKSUM: 76b3bcec552d8873e1bd875cdb195b2690278b97
 
-COCOAPODS: 1.4.0
+COCOAPODS: 1.5.3
